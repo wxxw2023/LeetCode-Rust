@@ -6,4 +6,10 @@
 - [ ] Some system design solutions
 
 ## Reference
-- [《LeetCode Cookbook》 V1.7.0 ](https://github.com/halfrost/LeetCode-Go)
+- [《LeetCode Cookbook》 V1.7.0 ](https://github.co)
+
+## Done
+| No  | Rust |Python|
+|-----|------| ------|
+| 1   | 100% | |
+ | 322 | 100% | |
